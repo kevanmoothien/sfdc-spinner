@@ -42,7 +42,7 @@ Possible value for "spinner_name" are:
 - fading-circle
 - folding-cube
 
-Values for "spinner_color" are a hex or html color name
+Value for "spinner_color" is a hex or html color name
 
 [tobiasahlin/SpinKit]: <https://github.com/tobiasahlin/SpinKit>
 
